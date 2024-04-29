@@ -1,6 +1,3 @@
-// 04 Triangle of Dollars.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
 #include <string>
 
@@ -36,4 +33,3 @@ int main()
     cout << output;
 }
 
-//Да се напише програма, която чете число n, въведено от потребителя, и печата триъгълник от долари като в примерите:
